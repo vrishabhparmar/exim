@@ -11,7 +11,7 @@
 
 4. APEDA (https://apeda.gov.in/ )
 
-5. NIRYAT (https://niryat.gov.i)
+5. NIRYAT (https://niryat.gov.i)s
 
 6. EXIM Paathshaala ( https://www.trade.gov.in/pages/exim-paathshaala )
 
@@ -36,3 +36,7 @@
 ### Logitics and Banking suport
 
 1. War IQ ( https://wareiq.com/ )
+
+### Research Website
+
+1. www.databridgemarketresearch.com
